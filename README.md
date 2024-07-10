@@ -1,1 +1,1 @@
-# TextDetection-with-Pytorch
+# Text-Detection-with-Pytorch
